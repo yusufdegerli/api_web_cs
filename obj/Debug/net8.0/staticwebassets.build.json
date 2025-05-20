@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "yku2SaDTXCbQce7QRBB0GIaMgb+rg1aEx9iHjJ+Q8E8=",
-  "Source": "web_api_using_crud_with_swagger",
-  "BasePath": "_content/web_api_using_crud_with_swagger",
+  "Hash": "Df8PZG4lGjIxfKickdK6+S2OGFyNCoBa2reGSQp+J/I=",
+  "Source": "api_for_sambapos",
+  "BasePath": "_content/api_for_sambapos",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
