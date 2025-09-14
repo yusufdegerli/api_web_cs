@@ -3,7 +3,6 @@
 <div align="center">
 
 ![Restaurant System Architecture](https://via.placeholder.com/800x300.png?text=Architecture+Diagram)  
-![Uploading High-level-design-of-restaurant-management-system.jpg…]()
 
 **Restaurant API & Real-Time Order Tracking System**
 
